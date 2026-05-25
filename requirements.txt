@@ -1,0 +1,26 @@
+# ===== T-rrenito backend dependencies =====
+
+# Framework
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+
+# Validación / config
+pydantic==2.9.2
+pydantic-settings==2.5.2
+
+# Anthropic Claude
+anthropic==0.39.0
+
+# RAG: embeddings + vector store
+sentence-transformers==3.2.1
+faiss-cpu==1.13.2
+
+# PDF parsing
+pdfplumber==0.11.4
+
+# Utilidades
+python-multipart==0.0.12
+
+# Dev / tests (opcional)
+pytest==8.3.3
+httpx==0.27.2

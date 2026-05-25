@@ -1,0 +1,13 @@
+{
+  "chunks": 13,
+  "documents": 5,
+  "dimension": 384,
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "doc_names": [
+    "VeLB_dolares_cheque-2.pdf",
+    "VeLB_dolares_transferencia-2.pdf",
+    "VeLB_pesos_cheque-2.pdf",
+    "VeLB_pesos_efectivo-2.pdf",
+    "VeLB_pesos_transferencia-3.pdf"
+  ]
+}
